@@ -17,7 +17,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "lodash": "4.17.21",
     "react": "18.2.0",
-    "react-native": "0.69.3",
+    "react-native": "0.70.6",
     "react-native-fast-image": "8.5.11",
     "react-native-reanimated": "^2.10.0",
     "react-native-restart": "0.0.24",
@@ -48,7 +48,7 @@
     "metro-react-native-babel-preset": "0.70.3",
     "npm": "8.15.1",
     "prettier": "2.7.1",
-    "react-test-renderer": "18.0.0",
+    "react-test-renderer": "18.2.0",
     "typescript": "4.7.4"
   },
   "jest": {
